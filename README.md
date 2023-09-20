@@ -20,4 +20,3 @@ docker-compose up -d
 [http://localhost:8080/](http://localhost:8080/)
 
 ---
-OBS: Para erro 502, aguarde mais alguns segundos e atualize a página.
